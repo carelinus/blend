@@ -1,0 +1,6 @@
+github.com/mewkiz/pkg v0.0.0-20181231041609-5720a0c5985d h1:XZYaJp18ZgsSPTgsELqyfedkxkzLnb6luMFQVn6XXDY=
+github.com/mewkiz/pkg v0.0.0-20181231041609-5720a0c5985d/go.mod h1:bhmdGJSMX5WCIBFmk27tBnUvBJm5WxXmarBV41qvbNI=
+github.com/mewspring/blend v0.0.0-20181024063013-47eb3b91bae1 h1:xV8kApKCSCTlUja2eZsUjqalZeN8iYwtzUgS38gbmgE=
+github.com/mewspring/blend v0.0.0-20181024063013-47eb3b91bae1/go.mod h1:Xrp8w0fA74/acG+RlljPeL1elelcbrV/+bVfNpYGXgk=
+golang.org/x/image v0.0.0-20190118043309-183bebdce1b2 h1:FNSSV4jv1PrPsiM2iKGpqLPPgYACqh9Muav7Pollk1k=
+golang.org/x/image v0.0.0-20190118043309-183bebdce1b2/go.mod h1:ux5Hcp/YLpHSI86hEcLt0YII63i6oz57MZXIpbrjZUs=
